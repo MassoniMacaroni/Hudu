@@ -9,7 +9,7 @@ A Python script to copy warranty expiration dates from the imported configuratio
 
 ## Requirements
 - Python 3.x
-- [Hudu API Key](https://docs.hudu.com/api)
+- [Hudu API Key](https://support.hudu.com/hc/en-us/articles/11422780787735-REST-API)
 
 ## Installation
 
